@@ -1,0 +1,3 @@
+text in file
+str1
+str2
