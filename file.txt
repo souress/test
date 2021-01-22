@@ -1,4 +1,7 @@
-text in file
-str1
+<<<<<<< HEAD
 added text
 str2
+=======
+haha
+nothing to say?
+>>>>>>> branch
