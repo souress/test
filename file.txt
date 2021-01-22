@@ -5,3 +5,4 @@ str2
 haha
 nothing to say?
 >>>>>>> branch
+some new text
