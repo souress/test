@@ -1,3 +1,4 @@
 text in file
 str1
+added text
 str2
